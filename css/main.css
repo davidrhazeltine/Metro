@@ -1,0 +1,10 @@
+* {
+	font-family: ;1
+}
+nav {
+	background-color: #352d2f;
+	position: absolute;
+	display: inline-block;
+	min-height: 52px;
+	width: 100%;
+}
